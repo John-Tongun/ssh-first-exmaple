@@ -9,7 +9,8 @@ software Developer specicalizing in full-stock web develpment with strong
 experince in Javascript and python. skilled in building scalable RESTful
 adn GrpahQL APIs
 
----#### Hard Skills
+---
+ Hard Skills
 - Full-Stack Web Development (JavaScript, Python)
 - RESTful & GraphQL API Design
 - Backend Architecture & System Design
